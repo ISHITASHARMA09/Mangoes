@@ -1,2 +1,2 @@
-# Mangoes
-whjr
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
